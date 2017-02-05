@@ -1,0 +1,9 @@
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\bin\Debug\Desligar.exe.config
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\bin\Debug\Desligar.exe
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\bin\Debug\Desligar.pdb
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.csprojResolveAssemblyReference.cache
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.frm_Desligar.resources
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.Properties.Resources.resources
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.csproj.GenerateResource.Cache
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.exe
+R:\Dropbox\Projetos\Desligar\Atual\Desligar\obj\Debug\Desligar.pdb
